@@ -1,2 +1,1 @@
 # PetProject
-Pet project
